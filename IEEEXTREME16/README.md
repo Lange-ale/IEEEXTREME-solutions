@@ -10,9 +10,11 @@
 
 ## :1st_place_medal: Ranking
 
-***Italy: 4th
-Region 8: 114th
-World: 531th / 6373 teams***
+***Italy: 4th***
+
+***Region 8: 114th***
+
+***World: 531th / 6373 teams***
 
 ## Programming Languages
 
