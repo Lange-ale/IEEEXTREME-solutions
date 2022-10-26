@@ -34,7 +34,7 @@
 * Palindrome Cutting: **5%**
 * What Language Am I Speaking?: **100%**
 * Scheduler: **100%**
-* Scheduler Redux: **92.31%**
+* Scheduler Redux: **100%**
 * My Treat: **100%**
 * Invisible Ghosts: **0%**
 * Book Cipher: **42.86%**
