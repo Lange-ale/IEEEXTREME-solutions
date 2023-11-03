@@ -1,6 +1,6 @@
-# [IEEEXtreme](https://ieeextreme.org/) 16.0 (2022)
+# [IEEEXtreme 16.0](https://ieeextreme.org/ieeextreme-16-0-ranking) (2022)
 
-## Team: **NotNord**
+## Team: *NotNord*
 
 * [Langellotti Alessio](https://github.com/Lange-ale)
 * [Christian Langellotti](https://github.com/Lange99)
@@ -12,9 +12,9 @@
 
 ***Italy: 4th***
 
-***Region 8: 114th***
+***Region 8: 96th***
 
-***World: 531th / 6373 teams***
+***World: 265th / 6376 teams***
 
 ## Programming Languages
 
